@@ -1,4 +1,4 @@
-## Hi, I'm Oraya Chaipanya
+## Hi, I'm Oraya
 
 I am a recent Data Science and Business Analytics graduate with hands-on experience in geospatial data science, remote sensing, and deep learning, with a focus on computer vision and image processing applications.
 
