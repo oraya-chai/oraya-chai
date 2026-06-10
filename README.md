@@ -31,3 +31,10 @@ I am a recent Data Science and Business Analytics graduate with hands-on experie
 ![GDAL](https://img.shields.io/badge/GDAL-5CAE58?style=for-the-badge\&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge\&logo=mlflow\&logoColor=white)
 ![Optuna](https://img.shields.io/badge/Optuna-4B8BBE?style=for-the-badge\&logoColor=white)
+
+### Research Publication
+
+**[Egg Defect Detection and Classification in Boiled Egg Industry with Surface Disturbance Removal on the Eggshell Based on Image Processing](https://doi.org/10.23919/ICCAS66577.2025.11301152)**
+Published in the 25th International Conference on Control, Automation and Systems (ICCAS), 2025.
+
+Research focus: Image processing-based computer vision for egg defect detection and industrial quality inspection.
